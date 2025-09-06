@@ -33,33 +33,16 @@ REST APIs (for future enhancements)
 
 JSON for structured data handling
 
-# Project Structure
-health-insurance-navigator-chatbot/
-├── backend/
-│   ├── app.py             # Main Flask server application
-│   ├── memory.py          # Manages conversation context
-│   ├── agents.py          # AI logic for responding to user queries
-│   ├── api_utils.py       # Utility functions for API calls
-│   └── requirements.txt   # Backend dependencies
-│
-├── frontend/
-│   ├── index.html         # Chat UI
-│   ├── style.css          # Styling for chatbot interface
-│   └── script.js          # Frontend chatbot logic
-│
-├── crayon hackathon.png   # Hackathon participation proof
-├── output (2).png         # Sample chatbot output screenshot
-└── README.md              # Project documentation
 
 ## Installation & Setup
 
 Follow these steps to set up the project locally:
 
-1️⃣ Clone the Repository
+1️. Clone the Repository
 git clone https://github.com/PATTEMDHARMIKA/Health-Insurance-Navigator-Chatbot.git
 cd Health-Insurance-Navigator-Chatbot
 
-2️⃣ Setup Backend
+2️. Setup Backend
 
 Navigate to the backend folder and install dependencies:
 
@@ -71,9 +54,10 @@ Run the Flask server:
 
 python app.py
 
-3️⃣ Open the Frontend
+3️. Open the Frontend
 
 Open frontend/index.html in your browser.
 
 Start interacting with the chatbot!
+
 
